@@ -1,0 +1,200 @@
+body{
+    font-size: 24px;
+}
+
+
+.border{
+    border: 1px solid salmon;
+}
+
+#top-bar{
+    position: relative;
+    height: 95px;
+
+}
+
+#top-bar #price{
+    position: absolute;
+    left: 50px;
+    top: 47px;
+    background: pink;
+    
+    
+}
+#top-bar #call-to-action{
+    position: absolute;
+    right: 10px;
+    top: 47px;
+    background: rgb(245, 142, 228);
+}
+
+#top-bar #store{
+    position: absolute;
+    left: 142px;
+    top: 47px;
+    background: rgb(255, 50, 221);
+}
+
+#top-bar #help{
+    position: absolute;
+    left: 257px;
+    top: 47px;
+    background: rgb(255, 50, 67);
+}
+
+#top-bar #offer{
+    position: absolute;
+    left: 352px;
+    top: 47px;
+    background: rgb(255, 119, 29);
+}
+
+#top-bar #logoYSL{
+    position: absolute;
+    left: 50%;
+    top: 47px;
+    background: rgb(255, 232, 29);
+}
+
+#top-bar #i{
+    position: absolute;
+    right: 66px;
+    top: 47px;
+    background: rgb(143, 243, 50);
+}
+
+#top-bar #news{
+    position: absolute;
+    right: 96px;
+    top: 47px;
+    background: rgb(50, 243, 108);
+}
+
+#top-bar #clubs{
+    position: absolute;
+    right: 170px;
+    top: 47px;
+    background: rgb(50, 198, 243);
+}
+
+#nd-top-bar{
+    position: relative;
+    height: 58px;
+
+}
+
+#nd-top-bar #sp-offer{
+    position: absolute;
+    top: 20px;
+    left: 400px;
+    background: rgb(122, 180, 247);
+    
+}
+
+#nd-top-bar #perfume{
+    position: absolute;
+    top: 20px;
+    left: 500px;
+    background: rgb(111, 51, 250);
+    
+}
+
+#nd-top-bar #cosmetic{
+    position: absolute;
+    top: 20px;
+    left: 620px;
+    background: rgb(250, 51, 223);
+    
+}
+
+#nd-top-bar #skin-care{
+    position: absolute;
+    top: 20px;
+    left: 840px;
+    background: rgb(168, 19, 148);
+    
+}
+
+#nd-top-bar #best-seller{
+    position: absolute;
+    top: 20px;
+    left: 940px;
+    background: rgb(110, 6, 96);
+    
+}
+
+#nd-top-bar #gifting{
+    position: absolute;
+    top: 20px;
+    left: 1160px;
+    background: rgb(231, 38, 70);
+    
+}
+
+#nd-top-bar #beauty-club{
+    position: absolute;
+    top: 20px;
+    left: 1280px;
+    background: rgb(248, 26, 130);
+    
+}
+
+#nd-top-bar #about{
+    position: absolute;
+    top: 20px;
+    left: 1460px;
+    background: rgb(179, 6, 101);
+    
+}
+
+#nd-top-bar #search{
+    position: absolute;
+    top: 20px;
+    left: 1570px;
+    background: rgb(110, 6, 20);
+    
+}
+
+#paragraph {
+    position: absolute;
+    top: 154px;
+    width: 835px;
+    height: 712px;
+    border: 2px solid palevioletred;
+}
+
+#paragraph2 {
+    position: absolute;
+    top: 300px;
+    right: 400px;
+    width: 633px;
+    height: 261px;
+    border: 2px solid orange;
+}
+
+#paragraph3 {
+    position: absolute;
+    top: 500px;
+    right: 100px;
+    width: 572px;
+    height: 281px;
+    border: 2px solid rgb(255, 60, 0); 
+}
+
+#chat {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    width: 171px;
+    height: 77px;
+    border: 2px solid rgb(2, 75, 26);  
+}
+
+#shop {
+    position: absolute;
+    top: 561px;
+    left: 883px;
+    width: 192px;
+    height: 60px;
+    border: 2px solid rgb(255, 168, 37);  
+}
